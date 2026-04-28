@@ -2,10 +2,7 @@
 
 ---
 
-If you are interested, you can read the reasons behind creating this powerful uploader [in my developer blog](https://www.patreon.com/c/Sadenism).
-
-![animated gif demonstration](https://archive.org/download/internet-archive-logo/internet-archive-logo.gif)
-![image transition demonstration](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Internet_Archive_logo_and_wordmark.svg/512px-Internet_Archive_logo_and_wordmark.svg.png)
+If you are interested, you can support me [in my patreon](https://www.patreon.com/c/Sadenism).
 
 ## Dependencies
 - A terminal emulator that handles standard ANSI escape codes (Windows Terminal, Alacritty, Kitty, iTerm2).
