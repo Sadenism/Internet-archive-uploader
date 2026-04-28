@@ -6,7 +6,7 @@
 
 ---
 
-### ✨ Specifications & Core Features
+### Specifications & Core Features
 
 * **Interactive TUI**
   Navigate via keyboard arrows! Configured with `rich` and `questionary`, it eliminates manual typing errors by providing dynamic visual menus and drop-down selectors.
