@@ -8,22 +8,22 @@
 
 ### ✨ Specifications & Core Features
 
-* ** Interactive TUI**
+* **Interactive TUI**
   Navigate via keyboard arrows! Configured with `rich` and `questionary`, it eliminates manual typing errors by providing dynamic visual menus and drop-down selectors.
   
-* ** Dynamic Account Mapping**
+* **Dynamic Account Mapping**
   No more pasting URLs. Connect your account once, and the script fetches every item you've ever uploaded directly to your terminal. Select where to push and pull your data automatically.
 
-* ** Multi-Threaded Engine**
+* **Multi-Threaded Engine**
   Upload thousands of items safely. The tool maps local chunks natively via Python's `ThreadPoolExecutor`, completely avoiding Internet Archive connection dropouts.
 
-* ** Intelligent Duplicate Prevention**
+* **Intelligent Duplicate Prevention**
   The script parses your Archive.org metadata recursively. It compares your local files with remote items—even if they're hidden deeply inside subfolders on the server—and skips them if they match.
 
-* ** Native Downloader with Telemetry**
+* **Native Downloader with Telemetry**
   Pull remote datasets natively directly into custom directories. Features real-time visual `tqdm` logs displaying file speeds, exact bytes, and ETA. 
 
-* ** Zero-Touch Dependencies**
+* **Zero-Touch Dependencies**
   Run the script right out of the box. The tool intercepts missing package errors and forcefully commands your OS to `pip install` what it needs in the background.
 
 ---
